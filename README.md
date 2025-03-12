@@ -5,4 +5,4 @@ simple python scanner with few lines of code, you just have to download the zip 
 racha github
 xddx
 x
-f
+actualizamos esto para la racha xd
